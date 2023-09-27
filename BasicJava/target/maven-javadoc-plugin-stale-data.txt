@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'D:/My codes/Java/BasicJava/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/My codes/Java/BasicJava/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BasicJava 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'BasicJava 1.0-SNAPSHOT API'
+com.mycompany.basicjava
+D:\My codes\Java\BasicJava\src\main\java = 1690470470053
+D:\My codes\Java\BasicJava\target\site\apidocs\allclasses-index.html = 1690470782506
+D:\My codes\Java\BasicJava\target\site\apidocs\allpackages-index.html = 1690470782513
+D:\My codes\Java\BasicJava\target\site\apidocs\copy.svg = 1690470782656
+D:\My codes\Java\BasicJava\target\site\apidocs\element-list = 1690470782381
+D:\My codes\Java\BasicJava\target\site\apidocs\help-doc.html = 1690470782614
+D:\My codes\Java\BasicJava\target\site\apidocs\index-all.html = 1690470782565
+D:\My codes\Java\BasicJava\target\site\apidocs\index.html = 1690470782588
+D:\My codes\Java\BasicJava\target\site\apidocs\member-search-index.js = 1690470782522
+D:\My codes\Java\BasicJava\target\site\apidocs\module-search-index.js = 1690470782517
+D:\My codes\Java\BasicJava\target\site\apidocs\overview-tree.html = 1690470782457
+D:\My codes\Java\BasicJava\target\site\apidocs\package-search-index.js = 1690470782519
+D:\My codes\Java\BasicJava\target\site\apidocs\script.js = 1690470782648
+D:\My codes\Java\BasicJava\target\site\apidocs\search-page.js = 1690470782662
+D:\My codes\Java\BasicJava\target\site\apidocs\search.html = 1690470782579
+D:\My codes\Java\BasicJava\target\site\apidocs\search.js = 1690470782660
+D:\My codes\Java\BasicJava\target\site\apidocs\stylesheet.css = 1690470782630
+D:\My codes\Java\BasicJava\target\site\apidocs\tag-search-index.js = 1690470782523
+D:\My codes\Java\BasicJava\target\site\apidocs\type-search-index.js = 1690470782520
